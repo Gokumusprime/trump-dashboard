@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). 
 
+
 ![Trump Dashboard](https://github.com/user-attachments/assets/52339d4b-d606-4de4-90d4-1c9d512a9937)
 
 ## Description
