@@ -11,7 +11,7 @@ This includes:
 - A component that shows a count down till President Trump is out of office.
 - A component that shows the current price of eggs on a monthly basis through a graph.  This updates monthly.
 - A component that shows the Dow Jones Index value with an arrow pointing down or up once the first difference is measured.  This updates every 4 minutes.
-- A component that shows any current news being streamed from Google News.  ALl media organizations are included.  This component does not discriminate.  This only pulls in news that mentions President Trump's name.  This updates every 1 minute.
+- A component that shows any current news being streamed from Google News.  All media organizations are included.  This component does not discriminate.  This only pulls in news that mentions President Trump's name.  This updates every 1 minute.
 - A component that measures the toxicity of the current news streaming in by analyzing the description of each article and using machine learning to establish a score for toxicity.  This updates around every 2 seconds.
 - A theme switching button in the corner to alter the color theme of the page.  Maga is a custom theme that is the default.
 - This application is also fully responsive.
