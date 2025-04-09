@@ -26,7 +26,7 @@ const TrumpQuotesList: React.FC = () => {
         {
           headers: {
             "Access-Control-Allow-Origin": "*",
-            "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+            "Access-Control-Allow-Methods": "GET, POST",
             "Content-Type": "application/xml",
           },
           responseType: "text",
