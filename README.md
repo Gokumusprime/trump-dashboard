@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). 
 
+![Trump Dashboard](https://github.com/user-attachments/assets/52339d4b-d606-4de4-90d4-1c9d512a9937)
+
 ## Description
 
 This project is a concept dashboard displaying the effects of news media and economy stats that are related to President Trump (I'd use a pun here, but it wouldn't be professional). The dashboard updates in real-time and provides information through small dashboard components.
