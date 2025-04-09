@@ -1,0 +1,7 @@
+.chat {
+  .chat-bubble {
+    &:before {
+      height: calc(2rem * 3) !important;
+    }
+  }
+}
